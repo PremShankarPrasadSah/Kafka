@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "name": "Prem Shankar",
+    "age": 24,
+    "course": "BSC"
+  },
+  {
+    "id": 2,
+    "name": "Aakash",
+    "age": 23,
+    "course": "BCA"
+  },
+  {
+    "id": 3,
+    "name": "Varun Kumar",
+    "age": 20,
+    "course": "MBA"
+  },
+  {
+    "id": 4,
+    "name": "RituRaj",
+    "age": 24,
+    "course": "B.Tech"
+  },
+  {
+    "id": 5,
+    "name": "Nirmal",
+    "age": 22,
+    "course": "M.Tech"
+  },
+  {
+    "id": 6,
+    "name": "Amit",
+    "age": 28,
+    "course": "Phd"
+  },
+  {
+    "id": 7,
+    "name": "Aman",
+    "age": 26,
+    "course": "Phd"
+  },
+  {
+    "id": 8,
+    "name": "Riya",
+    "age": 24,
+    "course": "BSC"
+  },
+  {
+    "id": 9,
+    "name": "Mayank",
+    "age": 24,
+    "course": "B.com"
+  },
+  {
+    "id": 10,
+    "name": "Rahul",
+    "age": 23,
+    "course": "Phd"
+  },
+  {
+    "id": 11,
+    "name": "Sakshi",
+    "age": 24,
+    "course": "B.tech"
+  }
+
+]
